@@ -18,7 +18,7 @@ void strcat(){
 	printf("heea;e");
 }
 
-size_t w_strlen(const wchar_t *s)
+size_t my_w_strlen(const wchar_t *s)
 {
 const wchar_t *p =s;
 
