@@ -14,7 +14,9 @@ while(*t++ = *s++);
 return p;
 
 }
-
+void strcat(){
+	printf("heea;e");
+}
 int main(void)
 {
 int i;
